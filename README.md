@@ -1,7 +1,6 @@
 # Manga-Downloader
-A python script that lets you download manga chapters from manganelo.com with a gui interface.
+A python based web scraping script that lets you search through and download manga database from manganelo.com with a friendly gui interface.
 
 # Libraries Required
 PyQt5
-
 bs4
